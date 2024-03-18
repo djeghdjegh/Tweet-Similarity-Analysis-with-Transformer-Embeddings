@@ -15,8 +15,8 @@
 ## Dataset
 The project uses two Excel files as datasets:
 
-#### train.xlsx: Contains the training data.
-#### test.xlsx: Contains the test data.
+#### train_modifier.xlsx: Contains the training data.
+#### testmodifier.xlsx: Contains the test data.
 ###### Ensure the datasets are formatted correctly with the required columns (text, user, etc.) before running the code.
 
 ## Results
