@@ -30,10 +30,10 @@ def preprocess_text(text):
     return tokens
 
 # Load the training data
-train_data = pd.read_excel('/content/drive/MyDrive/dataset/train.xlsx')
+train_data = pd.read_excel('/content/drive/MyDrive/dataset/train_modifier.xlsx')
 
 # Load the test data
-test_data = pd.read_excel('/content/drive/MyDrive/dataset/test.xlsx')
+test_data = pd.read_excel('/content/drive/MyDrive/dataset/testmodifier.xlsx')
 
 # Create DataFrames for training and testing
 df_train = pd.DataFrame(train_data)
