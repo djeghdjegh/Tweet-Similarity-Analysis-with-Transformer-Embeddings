@@ -10,28 +10,16 @@
 
 ####        import nltk
 ####        nltk.download('punkt')
-Usage
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/project-name.git
-Navigate to the project directory:
-bash
-Copy code
-cd project-name
-Run the Python script:
-Copy code
-python text_similarity_analysis.py
-Dataset
+
+
+## Dataset
 The project uses two Excel files as datasets:
 
-train.xlsx: Contains the training data.
-test.xlsx: Contains the test data.
-Ensure the datasets are formatted correctly with the required columns (text, user, etc.) before running the code.
+### train.xlsx: Contains the training data.
+### test.xlsx: Contains the test data.
+###### Ensure the datasets are formatted correctly with the required columns (text, user, etc.) before running the code.
 
-Results
-The project evaluates the text similarity model using precision, recall, and F1 score metrics on both the training and test datasets. The results are displayed in the console after running the script.
+## Results
+###### The project evaluates the text similarity model using precision, recall, and F1 score metrics on both the training and test datasets. The results are displayed in the console after running the script.
 
-License
-This project is licensed under the MIT License.
 
