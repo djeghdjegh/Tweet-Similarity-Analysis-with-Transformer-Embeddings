@@ -20,6 +20,5 @@ The project uses two Excel files as datasets:
 ###### Ensure the datasets are formatted correctly with the required columns (text, user, etc.) before running the code.
 
 ## Results
-###### The project evaluates the text similarity model using precision, recall, and F1 score metrics on both the training and test datasets. The results are displayed in the console after running the script.
-
+###### The project evaluates the text similarity model using precision, recall, and F1 score metrics on both the training and test datasets. 
 
