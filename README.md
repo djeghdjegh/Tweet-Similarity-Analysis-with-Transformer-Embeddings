@@ -5,12 +5,12 @@
 ## Installation
 ###### To run this project, ensure you have the necessary dependencies installed. You can install the required Python packages using pip:
 
-######Copy code
+###### Copy code
 #### pip install pandas numpy nltk scikit-learn gensim
-######Additionally, download the NLTK tokenizer resource by running the following command:
+###### Additionally, download the NLTK tokenizer resource by running the following command:
 
-####import nltk
-####nltk.download('punkt')
+#### import nltk
+#### nltk.download('punkt')
 Usage
 Clone the repository:
 bash
