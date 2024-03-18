@@ -1,5 +1,5 @@
 # Tweet-Similarity-Analysis-with-Transformer-Embeddings
-###### This project aims to perform text similarity analysis using Word2Vec embeddings.
+This project aims to perform text similarity analysis using Word2Vec embeddings.
 ## Introduction
 ###### This project utilizes pre-trained Word2Vec embeddings to calculate text similarity between pairs of texts. It includes preprocessing steps such as tokenization, removing stopwords, and lemmatization before computing the similarity scores.
 ## Installation
